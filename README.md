@@ -6,10 +6,7 @@
 <p>I'm excited to connect, collaborate, and contribute to the developer community. Let's code, innovate, and make a difference together!</div>
 </div>
 
- #### Studying in this moment:
-
-![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+## My Skills:
 
 <table>
  <tr>

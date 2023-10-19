@@ -19,7 +19,8 @@
     <td>Technologies</td>
     <td>
     <img src="https://img.shields.io/badge/-DotNet-yellow?logo=dotnet" height="25"/>&nbsp;
-	  <img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws" height="25"/>&nbsp;
+      <img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws" height="25"/>&nbsp;	    
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>&nbsp;
     </td>
  </tr>
    <tr>   
@@ -38,7 +39,6 @@
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25"/>&nbsp;
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="25"/>&nbsp;
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>&nbsp;
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>&nbsp;
     </td>
   </tr>
  <tr>   

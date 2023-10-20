@@ -1,7 +1,7 @@
 
 Welcome to My GitHub Profile!
 
-I'm a passionate software developer dedicated to crafting high-quality code and building innovative solutions. I'm on a journey of continuous learning and growth. Explore my repositories to discover projects that showcase my commitment to best coding practices, including [SOLID principles](https://github.com/gerasoa/solid/blob/main/readme.md), Clean Code, and Test-Driven Development (TDD).
+I'm a passionate software developer dedicated to crafting high-quality code and building innovative solutions. I'm on a journey of continuous learning and growth. Explore my repositories to discover projects that showcase my commitment to best coding practices, including [SOLID](https://github.com/gerasoa/SOLID/blob/main/README.md) principles, Clean Code, and Test-Driven Development (TDD).
 
 I'm excited to connect, collaborate, and contribute to the developer community. Let's code, innovate, and make a difference together!
 
